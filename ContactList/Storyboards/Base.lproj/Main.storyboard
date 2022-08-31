@@ -173,7 +173,7 @@
         <!--Persons List-->
         <scene sceneID="QqP-c3-iZk">
             <objects>
-                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="hia-O6-wLb" customClass="TabBarViewController" sceneMemberID="viewController">
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="hia-O6-wLb" customClass="TabBarViewController" customModule="ContactList" customModuleProvider="target" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationItem key="navigationItem" title="Persons List" id="Jft-gH-dRt"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="q9S-XX-frT">
